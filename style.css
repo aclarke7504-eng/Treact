@@ -127,6 +127,7 @@ nav .row {
 
 .row {
   width: 100%;
+  display: flex;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -151,9 +152,6 @@ h1 {
   line-height: 1.25;
 }
 
-/* .purple {
-  color: #6415ff;
-} */
 
 .header__img--wrapper {
   width: 100%;
